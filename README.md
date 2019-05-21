@@ -1,2 +1,2 @@
-# guacamole
-an example nrepository for introductory git training
+# A recipe for Guacamole
+an example repository for introductory **Git** training
