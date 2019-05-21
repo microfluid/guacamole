@@ -6,6 +6,7 @@ Make sure to enjoy
 - avocado
 - onion
 - tomatoes
+- chilli
 - salt & pepper
 
 Put into a bowl an mix.
