@@ -1,6 +1,6 @@
 * A recipe for hummus
 
-chickpeas 
-tahini
-olive oil
-paprika powder
+- chickpeas 
+- tahini
+- olive oil
+- paprika powder
