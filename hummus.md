@@ -4,3 +4,4 @@
 - tahini
 - olive oil
 - paprika powder
+- salt & pepper
