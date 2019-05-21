@@ -9,6 +9,12 @@ Make sure to enjoy
 
 Put into a bowl an mix.
 
+**Instructions
+
+- chop onion and tomatores
+- cut open avocado and remove stone
+- scoop out fresh
+- put into a bowl and mix with tomatos
 
 An example repository for introductory **Git** training
 
