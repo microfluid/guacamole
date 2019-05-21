@@ -1,4 +1,4 @@
-* A recipe for hummus
+* A recipe for hummus modified by HX
 
 - chickpeas 
 - tahini
