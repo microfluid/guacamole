@@ -2,6 +2,7 @@
 
 Make sure to enjoy
 
+## Ingredients
 - avocado
 - onion
 - tomatoes
@@ -9,7 +10,7 @@ Make sure to enjoy
 
 Put into a bowl an mix.
 
-**Instructions
+## Instructions
 
 - chop onion and tomatores
 - cut open avocado and remove stone
